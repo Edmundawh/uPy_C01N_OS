@@ -1,0 +1,10 @@
+{
+	"name":"Snake",
+	"desc":"Play the classic Snake",
+	"tags":["games"],
+	"author":"edmund",
+	"version":"250224",
+	"pkg":"snake",
+	"start":"snake",
+	"pubEpoch": 1552953600
+}

@@ -1,0 +1,10 @@
+{
+	"name":"Flappy Bird",
+	"desc":"Play the classic Flappy Bird",
+	"tags":["games"],
+	"author":"edmund",
+	"version":"250224",
+	"pkg":"flappy",
+	"start":"flappy",
+	"pubEpoch": 1552953600
+}

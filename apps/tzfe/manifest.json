@@ -1,0 +1,10 @@
+{
+	"name":"2048",
+	"desc":"Play the classic 2048",
+	"tags":["games"],
+	"author":"edmund",
+	"version":"250224",
+	"pkg":"tzfe",
+	"start":"tzfe",
+	"pubEpoch": 1552953600
+}

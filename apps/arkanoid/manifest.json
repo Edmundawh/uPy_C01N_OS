@@ -1,0 +1,10 @@
+{
+	"name":"Arkanoid",
+	"desc":"Play the classic Arkanoid",
+	"tags":["games"],
+	"author":"edmund",
+	"version":"250224",
+	"pkg":"arkanoid",
+	"start":"arkanoid",
+	"pubEpoch": 1552953600
+}

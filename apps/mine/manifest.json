@@ -1,0 +1,10 @@
+{
+	"name":"Minesweeper",
+	"desc":"Play the classic Minesweeper",
+	"tags":["games"],
+	"author":"edmund",
+	"version":"250224",
+	"pkg":"mine",
+	"start":"mine",
+	"pubEpoch": 1552953600
+}

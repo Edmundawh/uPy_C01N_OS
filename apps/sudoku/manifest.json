@@ -1,0 +1,10 @@
+{
+	"name":"Sudoku",
+	"desc":"Play the classic Sudoku",
+	"tags":["games"],
+	"author":"edmund",
+	"version":"250224",
+	"pkg":"sudoku",
+	"start":"sudoku",
+	"pubEpoch": 1552953600
+}

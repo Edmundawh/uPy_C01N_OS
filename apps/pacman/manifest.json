@@ -1,0 +1,10 @@
+{
+	"name":"Pac-man",
+	"desc":"Play the classic Pac-man",
+	"tags":["games"],
+	"author":"edmund",
+	"version":"250224",
+	"pkg":"pacman",
+	"start":"pacman",
+	"pubEpoch": 1552953600
+}

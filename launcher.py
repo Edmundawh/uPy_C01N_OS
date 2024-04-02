@@ -14,11 +14,11 @@ def app_start():
 		apps.append((app['name'], '/apps/%s'%app['dir'], app['start']))
 
 	apps.extend([ # System Apps
-	('App Store','/systemapps','appstore'),
-	('System Info','/systemapps','sysinfo'),
-	('File Explorer','/systemapps','fileexplorer'),
-	('WiFi Scan','/systemapps','wifiscan'),
-	('C01N Config','/systemapps','coinconfig'),
+	#('App Store','/systemapps','appstore'),
+	#('System Info','/systemapps','sysinfo'),
+	#('File Explorer','/systemapps','fileexplorer'),
+	#('WiFi Scan','/systemapps','wifiscan'),
+	#('C01N Config','/systemapps','coinconfig'),
 	('Credits','/systemapps','credits')
 	])
 

@@ -1,0 +1,10 @@
+{
+	"name":"Connect Four",
+	"desc":"Play the classic Connect Four",
+	"tags":["games"],
+	"author":"edmund",
+	"version":"250224",
+	"pkg":"four",
+	"start":"four",
+	"pubEpoch": 1552953600
+}

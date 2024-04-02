@@ -51,10 +51,15 @@ while btn.B.value():
 			p[1] += p[3]
 	if (time() >> 2) % 2:
 		oled.blit(badgelogo,0,0,0)
-	else:
+	elif (time() >> 3) % 2:
 		oled.fill_rect(32,21,64,20,0)
 		oled.hctext("Push [B]",22,1)
 		oled.hctext("To Start",33,1)
+		sleep_ms(10)
+	else:
+		oled.fill_rect(32,21,64,20,0)
+		oled.hctext("GovTech",22,1)
+		oled.hctext("Singapore",33,1)
 		sleep_ms(10)
 	oled.show()
 del particles,hue,badgelogo

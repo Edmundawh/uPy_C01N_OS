@@ -1,10 +1,10 @@
 {
-	"name":"Tetris",
+	"name":"Tetris (Easy)",
 	"desc":"Play the classic TETRIS",
 	"tags":["games"],
 	"author":"edmundang",
-	"version":"250223",
-	"pkg":"game",
-	"start":"game",
+	"version":"250224",
+	"pkg":"tetrise",
+	"start":"tetrise",
 	"pubEpoch": 1552953600
 }

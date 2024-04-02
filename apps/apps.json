@@ -1,7 +1,12 @@
 {"list":[
 {"name":"Name Badge","dir":"namebadge","start":"name"},
-{"name":"SG Weather","dir":"sgweather","start":"weather"},
 {"name":"Coin Sketch","dir":"coinsketch","start":"coinsketch"},
-{"name":"Ping Pong","dir":"pingpong","start":"pingpong"},
-{"name":"Tetris","dir":"tetris","start":"tetris"}
+{"name":"Minesweeper","dir":"mine","start":"mine"},
+{"name":"Tetris (Easy)","dir":"tetrise","start":"tetrise"},
+{"name":"Tetris (Hard)","dir":"tetrish","start":"tetrish"},
+{"name":"Tic Tac Toe","dir":"ttt","start":"ttt"},
+{"name":"Sudoku","dir":"sudoku","start":"sudoku"},
+{"name":"2048","dir":"tzfe","start":"tzfe"},
+{"name":"Connect Four","dir":"four","start":"four"},
+{"name":"Othello","dir":"othello","start":"othello"}
 ]}

@@ -1,0 +1,10 @@
+{
+	"name":"Space Invader",
+	"desc":"Play the classic Space Invader",
+	"tags":["games"],
+	"author":"edmund",
+	"version":"250224",
+	"pkg":"space",
+	"start":"space",
+	"pubEpoch": 1552953600
+}
