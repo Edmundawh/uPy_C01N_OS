@@ -1,0 +1,10 @@
+{
+	"name":"Tetris",
+	"desc":"Play the classic TETRIS",
+	"tags":["games"],
+	"author":"edmundang",
+	"version":"250223",
+	"pkg":"game",
+	"start":"game",
+	"pubEpoch": 1552953600
+}
